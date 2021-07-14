@@ -1,4 +1,4 @@
-# Express CRUD using mysql database.
+# Express CRUD using mongodb database.
 <p>I have created the express crud using mongodb database and it's functions also.
 I have used most of the basic skills of CRUD Operation  : get colllections, create users, delete users, and update users.</p>
 
